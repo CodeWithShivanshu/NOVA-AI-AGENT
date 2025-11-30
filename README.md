@@ -45,6 +45,6 @@ Its friendly robot-style design provides a modern, clean, and user-friendly expe
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/impact-ai-agent
+git clone https://github.com/CodeWithShivanshu/NOVA-AI-AGENT.git
 cd agents
 adk web ## for running this nova ai agent
